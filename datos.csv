@@ -1,3 +1,22 @@
 codigo,pregunta,tipo,valor
-1,¿Prefieres trabajar en equipo en lugar de hacerlo solo?,enfoque al trabajo,10
-2,¿Te consideras una persona que sigue las reglas estrictamente?,enfoque al trabajo,8
+1,¿Te sientes energizado después de interactuar con un grupo de personas?,Preferencias sociales,1
+1,¿Prefieres pasar tiempo solo que en una fiesta ruidosa?,Preferencias sociales,1
+1,¿Te resulta fácil hacer amigos en nuevos entornos?,Preferencias sociales,1
+2,¿Confías más en tus sentimientos que en hechos lógicos al tomar decisiones?,Forma de tomar decisiones,1
+2,¿Piensas mucho antes de tomar una decisión importante?,Forma de tomar decisiones,1
+2,¿Eres más espontáneo o planificas tus acciones con antelación?,Forma de tomar decisiones,1
+3,¿Prefieres trabajar en equipo en lugar de hacerlo solo?,Enfoque hacia el trabajo,1
+3,¿Te consideras una persona que sigue las reglas estrictamente?,Enfoque hacia el trabajo,1
+3,¿Tiendes a iniciar proyectos nuevos sin preocuparte por terminarlos?,Enfoque hacia el trabajo,1
+4,¿Te sientes cómodo con los cambios y la incertidumbre?,Actitud frente a los cambios,1
+4,¿Prefieres tener una rutina establecida en tu vida?,Actitud frente a los cambios,1
+4,¿Te resulta fácil adaptarte a nuevas situaciones?,Actitud frente a los cambios,1
+5,¿Sueles buscar soluciones creativas a los problemas?,Creatividad y resolución de problemas,1
+5,¿Prefieres seguir métodos comprobados antes que explorar nuevas ideas?,Creatividad y resolución de problemas,1
+5,¿Te sientes más motivado por tareas prácticas o por aquellas que requieren imaginación?,Creatividad y resolución de problemas,1
+6,¿Es importante para ti que otros aprueben tus decisiones?,Relaciones personales,1
+6,¿Prefieres escuchar y aconsejar a otros que hablar de ti mismo?,Relaciones personales,1
+6,¿Te es fácil expresar tus emociones a los demás?,Relaciones personales,1
+7,¿Prefieres comunicarte por escrito que en persona?,Estilo de comunicación,1
+7,¿Sueles ser directo y honesto, incluso si eso significa ser un poco brusco?,Estilo de comunicación,1
+7,¿Te cuesta hablar en público o prefieres mantenerte en segundo plano?,Estilo de comunicación,1
